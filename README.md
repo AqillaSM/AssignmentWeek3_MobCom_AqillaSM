@@ -63,11 +63,3 @@ Kami sangat menghargai kontribusi dari para pengembang. Jika Anda ingin berkontr
 4. Buat _pull request_ ke repositori ini dengan deskripsi yang jelas mengenai perubahan yang Anda lakukan.
 
 Kami akan melihat _pull request_ Anda dan akan berusaha untuk menggabungkannya jika sesuai dengan tujuan proyek ini.
-
-## Lisensi
-
-Aplikasi Kalkulator Sederhana ini dilisensikan di bawah [Lisensi MIT](LICENSE). Anda bebas untuk menggunakan, menggandakan, mengubah, dan mendistribusikan proyek ini sesuai dengan ketentuan lisensi.
-
----
-
-Silakan disesuaikan README di atas dengan detail yang sesuai dengan proyek Anda, seperti deskripsi yang lebih rinci, informasi kontak, dan setiap tambahan yang dianggap perlu. Juga, Anda dapat menambahkan lebih banyak tangkapan layar aplikasi sesuai kebutuhan.
