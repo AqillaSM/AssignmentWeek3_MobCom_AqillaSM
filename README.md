@@ -51,7 +51,6 @@ Proyek ini memiliki struktur direktori berikut:
     - ViewController.swift: File Swift yang mengontrol tampilan dan logika aplikasi.
   - Info.plist: File konfigurasi aplikasi.
   - AppDelegate.swift: File Swift yang menginisialisasi aplikasi.
-  - Assets.xcassets: Berkas sumber daya grafis, seperti ikon aplikasi.
 ```
 
 ## Kontribusi
