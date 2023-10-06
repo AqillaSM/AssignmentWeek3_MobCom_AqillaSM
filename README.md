@@ -16,6 +16,7 @@ Aplikasi ini menyediakan berbagai fitur utama, termasuk:
 - **Pengurangan (-)**: Pengguna dapat memasukkan dua angka dan aplikasi akan menghitung selisihnya.
 - **Perkalian (*)**: Pengguna dapat memasukkan dua angka dan aplikasi akan menghitung hasil perkaliannya.
 - **Pembagian (/)**: Pengguna dapat memasukkan dua angka dan aplikasi akan menghitung hasil pembagiannya.
+- **Persen (%)**: Pengguna dapat memasukkan satu angka dan aplikasi akan menghitung hasil dari persenannya.
 
 ## Instalasi
 
