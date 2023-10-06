@@ -1,7 +1,4 @@
 # AssignmentWeek3_MobCom_AqillaSM
-Kalkulator Sederhana
-
-Tentu, di bawah ini adalah README dengan jeda untuk screenshot program:
 
 # Aplikasi Kalkulator Sederhana
 
@@ -37,7 +34,7 @@ Setelah mengikuti langkah instalasi di atas dan membuka proyek dalam Xcode, Anda
 3. Klik tombol "Run" (atau tekan `Cmd+R`) untuk memulai simulasi atau memasang aplikasi di perangkat fisik.
 4. Aplikasi akan terbuka di layar simulator atau perangkat Anda.
 
-![Tampilan Aplikasi di Simulator](screenshots/app_simulator_screenshot.png)
+![alt text](https://github.com/AqillaSM/AssignmentWeek3_MobCom_AqillaSM/blob/main/Screenshot%202023-10-06%20at%2012.26.41.jpg?raw=true)
 
 5. Gunakan tombol-tombol kalkulator pada layar untuk melakukan operasi perhitungan.
 6. Hasil perhitungan akan ditampilkan di layar.
